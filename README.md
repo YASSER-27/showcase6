@@ -36,8 +36,8 @@ Or install from source:
 ```bash
 git clone https://github.com/YASSER-27/showcase6.git
 cd showcase6
+pip install .
 pip install -r requirements.txt
-python show.py
 ```
 
 ### 🛠️ Requirements
