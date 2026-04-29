@@ -13,6 +13,10 @@
 
 **Showcase6** is a professional CLI tool that transforms your 2D images and GIFs into stunning **3D mockups and showcase scenes** — directly from your terminal, with no GUI required.
 
+
+<img src="example_output/gif_example.gif" width="700" alt="showcase">
+
+
 ### ✨ Features
 - **50 Templates:** 20 classic 3D, 20 professional 3D, 10 flat/clean layouts
 - **17 Backgrounds:** White, Black, Deep Space, Sunset, Ocean, Aurora, Neon City, and more — plus **None (Transparent)**
@@ -20,9 +24,6 @@
 - **High-Quality Rendering:** PySide6-powered engine with antialiasing, rounded corners, and drop shadows
 - **4 Canvas Ratios:** 16:9, 9:16, 1:1, 4:3
 - **Interactive CLI:** Navigate with arrow keys, select with SPACE/ENTER
-
-![showcase](gif_example.gif)
-
 
 ### 📦 Installation
 
