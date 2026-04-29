@@ -28,13 +28,13 @@
 ### 📦 Installation
 
 ```bash
-pip install showcase
+pip install showcase6
 ```
 
 Or install from source:
 
 ```bash
-git clone https://github.com/YASSER-27/showcase.git
+git clone https://github.com/YASSER-27/showcase6.git
 cd showcase6
 pip install -r requirements.txt
 python show.py
